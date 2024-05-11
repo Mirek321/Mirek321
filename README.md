@@ -1,6 +1,6 @@
 # 🐊 Miroslav "Mirek" Bašista
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+<!-- **`Digital Craftsman (Developer/Filmmaker/Creator)`** -->
 
 My name is Miroslav Bašista and I come from eastern Slovakia. I've been fascinated by technology since I was little, which has influenced my life's path. I attended a Technical Industrial High School where I learned basic IT technologies. During the summer, I worked at Villa Pro company on the development and testing of applications related to parking systems. My further steps led me to the Faculty of Informatics at the University, which I saw as a challenge and an opportunity to expand my knowledge. Currently, I'm in my first year of study there.
 
