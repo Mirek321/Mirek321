@@ -26,6 +26,7 @@ odhodlanie dosahovať svoje ciele a neustále sa zlepšovať
 <br />
 
 #
+![Mirek GitHub stats](https://github-readme-stats.vercel.app/api?username=Mirek321&show_icons=true&theme=gruvbox)
 <!--
 **Mirek321/Mirek321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
