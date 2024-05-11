@@ -1,5 +1,5 @@
 # 🐊 Miroslav "Mirek" Bašista
-** Milovnik knih **
+** 'Milovnik knih' **
 Som zanietený programátor, ktorý si váži výzvy a neustále sa
 snaží rozvíjať svoje programovacie schopnosti. Mám silné
 odhodlanie dosahovať svoje ciele a neustále sa zlepšovať
