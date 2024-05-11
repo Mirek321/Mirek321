@@ -1,5 +1,8 @@
 # 🐊 Miroslav "Mirek" Bašista
 **Milovnik knih **
+Som zanietený programátor, ktorý si váži výzvy a neustále sa
+snaží rozvíjať svoje programovacie schopnosti. Mám silné
+odhodlanie dosahovať svoje ciele a neustále sa zlepšovať
 <!--
 **Mirek321/Mirek321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
