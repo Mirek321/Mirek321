@@ -2,7 +2,15 @@
 
 <!-- **`Digital Craftsman (Developer/Filmmaker/Creator)`** -->
 
-My name is Miroslav Bašista and I come from eastern Slovakia. I've been fascinated by technology since I was little, which has influenced my life's path. I attended a Technical Industrial High School where I learned basic IT technologies. During the summer, I worked at Villa Pro company on the development and testing of applications related to parking systems. My further steps led me to the Faculty of Informatics at the University, which I saw as a challenge and an opportunity to expand my knowledge. Currently, I'm in my first year of study there.
+My name is Miroslav Bašista and I come from eastern Slovakia. Since my youth, I’ve been
+fascinated by technology, which has guided my life's path.
+I’m currently in my third year at the Faculty of Information
+Technology at Brno University of Technology, where I saw an
+opportunity to grow my knowledge. In summer 2024, I
+started working at Eloc8, a company specializing in IoT
+product development. I’ve been involved in programming
+ESP32-based devices and developing their interfaces in the
+ThingsBoard application
 
 ---
 
